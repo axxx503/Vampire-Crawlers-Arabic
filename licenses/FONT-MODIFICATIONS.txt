@@ -1,0 +1,1 @@
+Arabic Pixel 2 by AlexClay, CC0. This modified version is the corrected font used in GambonanzaArabic 0.5.0. Missing or empty Arabic presentation-form cmap entries were aliased to visible original glyphs. Original outlines are unchanged.
